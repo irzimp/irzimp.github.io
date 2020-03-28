@@ -1,0 +1,42 @@
+body{
+ background-color: #ff6666;
+ background-image: url("background.jpg");
+}
+
+h1{
+	color: white;
+	text-align:center;
+	background-color: #ec1a28;
+	font-family: "Bauhaus 93";
+	font-size: 40px;
+}
+
+h2{
+	color: darkblue;
+	text-align:center;
+	font-family: "Bauhaus 93";
+	font-size: 30px;
+}
+
+h3{
+	color: darkgreen;
+	text-align:center;
+	font-family: "Bauhaus 93";
+	font-size: 25px;
+}
+
+p{
+	color: #8b0000;
+	text-align:center;
+	font-family: "Comic Sans MS";
+	font-size: 17px;
+	letter-spacing: 3px;
+}
+
+#foto{
+	text-align:center;
+}
+
+.tag{
+	text-decoration: underline;
+}
